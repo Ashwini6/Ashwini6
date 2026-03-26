@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2ECC71&center=true&vCenter=true&width=800&lines=👩‍💻+Hi%2C+I'm+Ashwini+L+A+%7C+Java+Developer;☕+Spring+Boot+%7C+Hibernate+%7C+REST+APIs;🌿+Building+Real-World+Backend+Solutions;🚀+AWS+Learner+%7C+DevOps+Explorer;🌾+Creator+of+E-Agricultural+Mgmt+System" alt="Ashwini Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2ECC71&center=true&vCenter=true&width=800&lines=👩‍💻+Hi%2C+I'm+Ashwini+L+A+%7C+Java+Developer;☕+Spring+Boot+%7C+Hibernate+%7C+REST+APIs;🌿+Building+Real-World+Backend+Solutions;🚀+AWS+Learner+%7C+DevOps+Explorer;🌾+Creator+of+E-Agricultural+Mgmt+System" alt="Ashwini Typing Animation" />
 </h1>
 
 <p align="center">
@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=🧠+Technologies+That+Power+My+Development;☕+Java+%7C+Spring+Boot+%7C+Hibernate+%7C+AWS+%7C+MySQL!" alt="Tech Stack Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=🧠+Technologies+That+Power+My+Development;☕+Java+%7C+Spring+Boot+%7C+Hibernate+%7C+AWS+%7C+MySQL!" alt="Tech Stack Animation" />
 </p>
 
 ### Backend & Frameworks
