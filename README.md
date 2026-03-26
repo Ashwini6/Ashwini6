@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" width="400" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer GIF" width="400" />
 </p>
 
 ---
@@ -68,40 +68,4 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VS Code" title="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="60" alt="Eclipse" title="Eclipse" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="Unity" title="Unity" />
-</p>
-
----
-
-## 🚀 Projects
-
-### 🌾 E-Agricultural Management System
-> **Java | JDBC | Servlets | MySQL | HTML5 | CSS3 | Bootstrap**
-
-Built a Java-based web application to manage agricultural and farmer-related data. Designed a responsive interface using HTML, CSS and Bootstrap, with a robust backend powered by JDBC, Servlets and MySQL.
-
----
-
-### 🏫 Augmented Reality (AR) Campus Tour Application
-> **Unity | ARCore | 3D Modelling | Location-based AR**
-
-Developed an interactive AR mobile app that provides an immersive virtual campus tour. Displayed real-time 3D building models and location-based features to enhance user navigation and engagement.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashwini6&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwini6&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwini6&theme=tokyonight&hide_border=true" width="55%"/>
-</p>
-
----
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg
